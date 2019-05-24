@@ -2,4 +2,14 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/Umsplash.Web/.vs/Umsplash
+/.vs
+/Umsplash/obj
+/Umsplash.Web/App_Data/cache
+/Umsplash.Web/App_Data/Logs
+/Umsplash.Web/App_Data/Models
+/Umsplash.Web/App_Data/packages
+/Umsplash.Web/App_Data/TEMP
+/Umsplash.Web/bin
+/Umsplash.Web/obj
+/Umsplash.Web/Umbraco
+/packages

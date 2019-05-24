@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Umsplash.Web", "Umsplash.Web\Umsplash.Web.csproj", "{B7F07544-8D1D-48EC-B7EC-2039EF3D0DCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Umsplash", "Umsplash\Umsplash.csproj", "{44199834-602A-40DB-BBD7-0842DBB6D32A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7F07544-8D1D-48EC-B7EC-2039EF3D0DCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7F07544-8D1D-48EC-B7EC-2039EF3D0DCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7F07544-8D1D-48EC-B7EC-2039EF3D0DCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7F07544-8D1D-48EC-B7EC-2039EF3D0DCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44199834-602A-40DB-BBD7-0842DBB6D32A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44199834-602A-40DB-BBD7-0842DBB6D32A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44199834-602A-40DB-BBD7-0842DBB6D32A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44199834-602A-40DB-BBD7-0842DBB6D32A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B977D46-A7B1-4C7C-900D-31394D533A69}
+	EndGlobalSection
+EndGlobal
