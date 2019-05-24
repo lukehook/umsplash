@@ -13,3 +13,6 @@
 /Umsplash.Web/obj
 /Umsplash.Web/Umbraco
 /packages
+/Umsplash.Web/App_Plugins/Umsplash
+/Umsplash/bin
+*.user
