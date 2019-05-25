@@ -1,3 +1,38 @@
-﻿body
-{
+﻿body {
+}
+
+div.umsplashPropertyEditor ul li {
+    cursor: pointer;
+}
+
+div.umsplash-picker div.results {
+    margin-top: 10px;
+}
+
+div.umsplash-picker div.results img {
+    margin: 0px 10px 10px 0px;
+    float: left;
+    cursor: pointer;
+}
+
+div.umsplash-picker div.results img:hover {
+    -webkit-box-shadow: 3px 3px 5px 0 #1b264f;
+    -moz-box-shadow: 3px 3px 5px 0 #1b264f;
+    box-shadow: 3px 3px 5px 0 #1b264f;
+}
+
+div.umsplash-picker div.results img.animate-show.ng-hide-add, div.umsplash-picker div.results img.animate-show.ng-hide-remove {
+    -webkit-transition: opacity linear 0.5s;
+    -moz-transition: opacity linear 0.5s;
+    -o-transition: opacity linear 0.5s;
+    transition: opacity linear 0.5s;
+    display: block !important;
+}
+
+div.umsplash-picker div.results img.animate-show.ng-hide-add.ng-hide-add-active, div.umsplash-picker div.results img.animate-show.ng-hide-remove {
+    opacity: 0;
+}
+
+div.umsplash-picker div.results img.animate-show.ng-hide-add, div.umsplash-picker div.results img.animate-show.ng-hide-remove.ng-hide-remove-active {
+    opacity: 1;
 }

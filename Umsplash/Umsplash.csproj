@@ -51,8 +51,11 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="App_Plugins\Umsplash\css\umsplash.styles.css" />
-    <Content Include="App_Plugins\Umsplash\index.html" />
-    <Content Include="App_Plugins\Umsplash\js\umsplash.controller.js" />
+    <Content Include="App_Plugins\Umsplash\js\umsplash.directives.js" />
+    <Content Include="App_Plugins\Umsplash\js\umsplash.propertyeditor.controller.js" />
+    <Content Include="App_Plugins\Umsplash\umsplash.propertyeditor.html" />
+    <Content Include="App_Plugins\Umsplash\js\umsplash.picker.controller.js" />
+    <Content Include="App_Plugins\Umsplash\umsplash.picker.html" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
