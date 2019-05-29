@@ -25,6 +25,7 @@ You need to provide an Unsplash API Key in order to use this editor - currently 
 - Media Library download / storage
 - Integration with built-in Media Picker
 - Centralisation of API Key (AppSettings / Package Settings)
+- Possible MediaSource Interface to enable multiple different sources (e.g. Giphy, Media Library)
 
 # References
 This project was largely inspired by the Giphy Property Editor for Umbraco by Paul Seal from https://codeshare.co.uk
