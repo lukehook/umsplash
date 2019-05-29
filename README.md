@@ -28,4 +28,4 @@ You need to provide an Unsplash API Key in order to use this editor - currently 
 - Possible MediaSource Interface to enable multiple different sources (e.g. Giphy, Media Library)
 
 # References
-This project was largely inspired by the Giphy Property Editor for Umbraco by Paul Seal from https://codeshare.co.uk
+This project was largely inspired by an idea from Joe Glombek and inherits largely from the Giphy Property Editor project by Paul Seal from https://codeshare.co.uk
