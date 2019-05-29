@@ -10,6 +10,7 @@ Included is a sample Umbraco website utilising the Starter Kit package. If you b
 Login credentials are as follows:
 
 Username: test@test.com
+
 Password: password12
 
 The Unsplash Picker data type has been created, you should be able to add this property to any of the document types for testing (currently on the Home page if you want to get started quickly)
